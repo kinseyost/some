@@ -1,0 +1,12 @@
+{
+  "name": "some",
+  "version": "1.0.0",
+  "description": "test some api",
+  "main": "index.js",
+  "repository": "https://github.com/kinseyost/some.git",
+  "author": "kinseyost",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^3.8.2"
+  }
+}
